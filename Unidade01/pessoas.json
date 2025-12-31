@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Lucas",
+        "telefone": "123456789",
+        "endereco": "Rua A"
+    },
+    {
+        "nome": "Ana",
+        "telefone": "987654321",
+        "endereco": "Rua B"
+    },
+    {
+        "nome": "Jo\u00e3o",
+        "telefone": "456789123",
+        "endereco": "Rua C"
+    }
+]
